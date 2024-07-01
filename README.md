@@ -7,3 +7,5 @@ Features:
 - View detailed nutritional information including carbohydrates, cholesterol, fats, fiber, potassium, protein, sodium, and sugar.
 - Get recommendations on how to burn the calories through different physical activities.
 - Alerts for high sodium and high sugar content in foods.
+
+![alt text](image.png)
